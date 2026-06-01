@@ -1,7 +1,11 @@
-# Leetcode
+# Program Exercises
 
-| nº Problema | Nombre | Estatus | Tiempo | Memoria |
-| :--- | :--- | :---: | :---: | :---: |
-| 1351 | **Count Negatives** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![0ms](https://img.shields.io/badge/Tiempo-0ms-success) | ![0ms](https://img.shields.io/badge/Memoria-10.34mb-success) |
-| 3120 | **Number of special characters** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![0ms](https://img.shields.io/badge/Tiempo-0ms-success) | ![0ms](https://img.shields.io/badge/Memoria-9.3mb-success) |
-| 3121 | **Number of special characters 2** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![0ms](https://img.shields.io/badge/Tiempo-33ms-success) | ![0ms](https://img.shields.io/badge/Memoria-13.54mb-success) |
+## Leetcode
+
+| nº Problema | Nombre | Estatus | Tiempo | Memoria | Lenguaje |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| 1351 | **Count Negatives** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![0ms](https://img.shields.io/badge/Tiempo-0ms-success) | ![0ms](https://img.shields.io/badge/Memoria-10.34mb-success) | C |
+| 3120 | **Number of special characters** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![0ms](https://img.shields.io/badge/Tiempo-0ms-success) | ![0ms](https://img.shields.io/badge/Memoria-9.3mb-success) | C |
+| 3121 | **Number of special characters 2** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![0ms](https://img.shields.io/badge/Tiempo-33ms-success) | ![0ms](https://img.shields.io/badge/Memoria-13.54mb-success) | C |
+
+
